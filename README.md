@@ -29,7 +29,7 @@ I'm a dedicated Computer Science student at Brigham Young University en route to
 
 ##### School
 
-- Door to door salesmen and saleswomen have a difficult job. A project some fellow students and I are passionately working on is Knocked - an app for salesmen and saleswomen to know where to go, who to talk to, and who to mention. You can check it out at [knocked.sethwbarton.com](knocked.sethwbarton.com). (Pssst.. I made the website with Flutter!)
+- Door to door salesmen and saleswomen have a difficult job. A project some fellow students and I are passionately working on is Knocked - an app for salesmen and saleswomen to know where to go, who to talk to, and who to mention. You can check it out at [knocked.sethwbarton.com](https://knocked.sethwbarton.com). (Pssst.. I made the website with Flutter!)
 
 #### 🌱 What I'm Learning Right Now 
 
