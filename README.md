@@ -20,7 +20,7 @@ I'm a dedicated Computer Science student at Brigham Young University en route to
 
 ##### Personal
 
-- I really want an awesome website to show off my skills and write some blog posts on. But what is a website about a developer if they weren't the one who created it? I want to make my website with Flutter Web based around Markdown documents for my blog posts. You can check out what I have so far at [sethwbarton.com](sethwbarton.com)
+- I really want an awesome website to show off my skills and write some blog posts on. But what is a website about a developer if they weren't the one who created it? I want to make my website with Flutter Web based around Markdown documents for my blog posts. You can check out what I have so far at [sethwbarton.com](https://sethwbarton.com)
 - I want to see what's on the other side of the galaxy, learn more about star systems and planets, and contribute to something unique. That's why I'm going on an expedition in my favorite video game: [Elite Dangerous](https://www.elitedangerous.com/). Expedition [Murcury's Wings](https://en.wikipedia.org/wiki/Mercury_(mythology)) departs on November 22nd, 2020 and returns January 17th, 2021. I'll be working with about 75 other players to bring a new space station to the outer edge of the Milky Way. If you want to learn more, check it out [here](https://www.edsm.net/en/expeditions/summary/id/111/name/Expedition+Mercury%27s+Wings+%5BDSSA%5D). 
 
 ##### Work
