@@ -2,8 +2,6 @@
 
 #### About Me
 
-I was born and raised in Mesa, Arizona and graduated from Mountain View Highschool in 2014. Go Toros! 🐮 
-
 I'm a dedicated Computer Science student at Brigham Young University en route to graduate December 2020. Between my first two years as a university student, I spent two years in Atlanta, Georgia as a full-time, volunteer missionary for my church. It was one of the best experiences of my life! Since then, I've gotten married, got some 'real' jobs, and am looking for full time placement after I graduate. 
 
 ##### 👩‍🚀 My Work Experience 
