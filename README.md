@@ -14,6 +14,8 @@ I'm an alumni of Brigham Young University with a B.S. in Computer Science. I kno
 Currently working at Ford Motor Company as a Software Engineering team lead. My job history looks like BYU student developer -> junior dev at a startup -> mid-level dev at a startup -> senior dev at a consulting firm -> Ford.
 
 
+The open source repos you see on my profile mostly act as a history of my learnings and adventures in new tech up to this point.
+
 [website]: https://sethwbarton.com
 [linkedin]: https://www.linkedin.com/in/seth-barton-828787156/
 [github]: https://github.com/sethwbarton
