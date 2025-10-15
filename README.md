@@ -1,6 +1,6 @@
 ## Hi! I'm Seth
 
-- 📝 I write on substack.sethwbarton.com
+- 📝 I write on sethwbarton.substack.com
 - 👷‍♂️ I'm working on becoming a consistent contributor to open source. 
 - 🚅 I'm currently learning Ruby and Ruby on Rails.
 - ♨️ I'm currently working with React, TypeScript, and Spring Boot
@@ -17,6 +17,5 @@ Currently working at Ford Motor Company as a Software Engineering team lead. My 
 The open source repos you see on my profile mostly act as a history of my learnings and adventures in new tech up to this point. The one I built that is actually useful is [Latter-day Texting Tool](https://github.com/sethwbarton/latter-day-texting-tool) which is meant to help Latter-day Saint congregation leaders
 be able to communiate with their ward members easier.
 
-[website]: https://sethwbarton.com
-[linkedin]: https://www.linkedin.com/in/seth-barton-828787156/
-[github]: https://github.com/sethwbarton
+Check out my [Website](https://sethwbarton.com), my [Substack](sethwbarton.substack.com), or my [LinkedIn](https://www.linkedin.com/in/seth-barton-828787156/).
+I'm also on [X](https://x.com/sethwbarton) occasionally. 
